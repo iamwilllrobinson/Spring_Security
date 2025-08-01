@@ -15,6 +15,8 @@ This project demonstrates secure communication between two Spring Boot microserv
 - `keycloak-config/`: Contains `realm-export.json` to pre-configure Keycloak
 - `docker-compose.yml`: Spins up Keycloak instance on port 8089
 
+![Architecture Diagram](./Authentication.png)
+
 ---
 
 ## 💻 Prerequisites
